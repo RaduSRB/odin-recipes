@@ -1,2 +1,3 @@
 # odin-recipes
-Simple HTML website about recipes
+Simple Recipes Website in HTML
+Italian Recipes MAMAMIA!!!
